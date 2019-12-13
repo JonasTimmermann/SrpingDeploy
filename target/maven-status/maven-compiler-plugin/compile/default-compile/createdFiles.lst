@@ -1,4 +1,5 @@
 com\example\gewerbeanmeldung\QuestionType\QuestionType.class
+com\example\gewerbeanmeldung\HelloController.class
 com\example\gewerbeanmeldung\Choices\Choices.class
 com\example\gewerbeanmeldung\Question\QuestionController.class
 com\example\gewerbeanmeldung\GewerbeanmeldungApplication.class
